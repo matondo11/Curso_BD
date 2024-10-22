@@ -1,0 +1,9 @@
+	*** Curso de Banco de dados ***
+
+As BD são constituidos por :
+* base de dados: Que são os dados propriamente ditos.
+* sistema gerenciador (SGBD)
+* Linguagem de exploração 
+* programas adicionais
+
+structured query language (SQL)
